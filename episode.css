@@ -1,0 +1,80 @@
+
+.timeline {
+    position: relative;
+    width: 100%;
+    height: 800px;
+    background-color: #eee;
+    margin-top: 30px;
+}
+
+.episode {
+    position: absolute;
+    height: 45px;
+    margin-top: 5px;
+    /*border: 1px solid #d0a223;*/
+    border-radius: 3px;
+    /*box-shadow: 0 0 1px 1px rgba(0,0,0,0.2);*/
+    /*padding: 3px;*/
+    padding-top: 3px;
+    padding-left: 10px;
+    font-family: "Helvetic Neue", Helvetica, Arial;
+    font-size: .90em;
+    font-weight: bold;
+
+    background-color: white;
+    border-bottom: 1px solid #ccc;
+}
+
+.episode-label {
+    width: 5px;
+    height: 80%;
+    position: absolute;
+    left: 1px;
+    top: 10%;
+    /*line-height: 100px;*/
+    /*float: left;*/
+    /*padding: 0;*/
+    /*margin-bottom: 1px;*/
+}
+
+.episode-title {
+
+}
+
+.episode-description {
+    margin-top: 3px;
+    font-weight: normal;
+    font-style: italic;
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 90%;
+    color: rgba(0, 0, 0, 0.70);
+}
+
+.episode-label-1 {
+    background-color: red;
+}
+
+.episode-label-2 {
+    background-color: blue;
+}
+
+.episode-label-3 {
+    background-color: green;
+}
+
+.episode-kind-1 {
+    /*background-color: rgba(255, 220, 0, 0.48);*/
+    /*color: #755719;*/
+}
+
+.episode-kind-2 {
+    /*background-color: rgba(18, 160, 255, 0.48);*/
+    /*color: #1d003a;*/
+}
+
+.episode-kind-3 {
+    /*background-color: rgba(255, 0, 45, 0.48);*/
+    /*color: #3a001f;*/
+}
