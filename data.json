@@ -1,0 +1,205 @@
+{
+  "options": {
+    "slack": {
+      "amount": 10,
+      "measure": "years"
+    }
+  },
+  "data": [
+    {
+      "label": "René Descartes",
+      "begin": "1596-03-31",
+      "end": "1650-02-11"
+    },
+    {
+      "label": "Isaac Newton",
+      "begin": "1643-01-04",
+      "end": "1727-03-31"
+    },
+    {
+      "label": "Galileo Galilei",
+      "begin": "1564-02-15",
+      "end": "1642-01-08"
+    },
+    {
+      "label": "Albert Eistein",
+      "begin": "1879-03-14",
+      "end": "1955-04-18"
+    },
+    {
+      "label": "Stephen Hawking",
+      "begin": "1942-01-08",
+      "end": "-"
+    },
+    {
+      "label": "Johannes Kepler",
+      "begin": "1571-12-27",
+      "end": "1630-11-15"
+    },
+    {
+      "label": "Nicolaus Copernicus",
+      "begin": "1473-02-19",
+      "end": "1543-05-24"
+    },
+    {
+      "label": "Tycho Brahe",
+      "begin": "1546-12-14",
+      "end": "1601-10-24"
+    },
+    {
+      "label": "Charles Darwin",
+      "begin": "1809-02-12",
+      "end": "1882-04-19"
+    },
+    {
+      "label": "Gregor Mendel",
+      "begin": "1822-05-20",
+      "end": "1884-01-06"
+    },
+    {
+      "label": "Louis Pasteur",
+      "begin": "1822-12-27",
+      "end": "1895-09-28"
+    },
+    {
+      "label": "Alexander Graham Bell",
+      "begin": "1847-03-03",
+      "end": "1922-08-02"
+    },
+    {
+      "label": "Nikola Tesla",
+      "begin": "1856-07-10",
+      "end": "1943-01-07"
+    },
+    {
+      "label": "Thomas Edison",
+      "begin": "1847-02-11",
+      "end": "1931-10-31"
+    },
+    {
+      "label": "Michael Faraday",
+      "begin": "1791-09-22",
+      "end": "1867-08-25"
+    },
+    {
+      "label": "James Maxwell",
+      "begin": "1831-06-13",
+      "end": "1879-11-05"
+    },
+    {
+      "label": "Heinrich Hertz",
+      "begin": "1857-02-22",
+      "end": "1894-01-01"
+    },
+    {
+      "label": "Gottfried Leibniz",
+      "begin": "1646-07-01",
+      "end": "1716-11-14"
+    },
+    {
+      "label": "Pierre de Fermat",
+      "begin": "1601-08-17",
+      "end": "1665-01-12"
+    },
+    {
+      "label": "Blaise Pascal",
+      "begin": "1623-06-19",
+      "end": "1662-08-19"
+    },
+    {
+      "label": "Leonhard Euler",
+      "begin": "1707-04-15",
+      "end": "1783-09-18"
+    },
+    {
+      "label": "Friedrich Gauss",
+      "begin": "1777-04-30",
+      "end": "1855-02-23"
+    },
+    {
+      "label": "Bernhard Riemann",
+      "begin": "1826-09-17",
+      "end": "1866-07-20"
+    },
+    {
+      "label": "Évariste Galois",
+      "begin": "1811-10-25",
+      "end": "1832-05-31"
+    },
+    {
+      "label": "Pierre-Simon Laplace",
+      "begin": "1749-03-23",
+      "end": "1827-03-05"
+    },
+    {
+      "label": "Siméon Poisson",
+      "begin": "1781-06-21",
+      "end": "1840-04-25"
+    },
+    {
+      "label": "Marie Curie",
+      "begin": "1867-11-07",
+      "end": "1934-07-04"
+    },
+    {
+      "label": "Alan Turing",
+      "begin": "1912-06-23",
+      "end": "1954-06-07"
+    },
+    {
+      "label": "Leonardo da Vinci",
+      "begin": "1452-04-15",
+      "end": "1519-05-02"
+    },
+    {
+      "label": "Michelangelo",
+      "begin": "1475-03-06",
+      "end": "1564-02-18"
+    },
+    {
+      "label": "Charles Babbage",
+      "begin": "1791-12-26",
+      "end": "1871-10-18"
+    },
+    {
+      "label": "George Boole",
+      "begin": "1815-11-02",
+      "end": "1864-12-08"
+    },
+    {
+      "label": "Augustus De Morgan",
+      "begin": "1806-06-27",
+      "end": "1871-03-18"
+    },
+    {
+      "label": "Bertrand Russell",
+      "begin": "1872-05-18",
+      "end": "1970-02-02"
+    },
+    {
+      "label": "John Napier",
+      "begin": "1550",
+      "end": "1617-04-04"
+    },
+    {
+      "label": "Daniel Bernoulli",
+      "begin": "1700-02-08",
+      "end": "1782-03-17"
+    },
+    {
+      "label": "Edmond Halley",
+      "begin": "1656-11-08",
+      "end": "1742-01-14"
+    },
+    {
+      "label": "Robert Hooke",
+      "begin": "1635-07-28",
+      "end": "1703-03-03"
+    },
+    {
+      "label": "Christiaan Huygens",
+      "begin": "1629-04-14",
+      "end": "1695-07-08"
+    }
+  ]
+}

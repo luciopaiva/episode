@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/moment/min/moment.min.js"></script>
+
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="episode.css"/>
+
+    <script src="episode.js"></script>
+
+    <meta charset="UTF-8">
+    <title>Famous Scientists</title>
+</head>
+<body>
+
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-12">
+
+            <div id="timeline" class="timeline"></div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    episode('data.json', 'timeline');
+</script>
+
+</body>
+</html>
